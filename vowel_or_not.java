@@ -1,4 +1,6 @@
-package Program4;
+// Write a program to accept a character and check 
+// if it is a vowel or not.
+
 import java.util.Scanner;
 
 public class vowel_or_not {
