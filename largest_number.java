@@ -1,3 +1,6 @@
+// Write a Java program to accept three numbers and
+// find the largest among them using an if statement.
+
 package Program2;
 import java.util.Scanner;
 
