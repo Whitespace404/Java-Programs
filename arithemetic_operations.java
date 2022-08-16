@@ -1,4 +1,6 @@
-package Program1;
+// Write a program to accept two numbers and demonstrate the use 
+// of all the arithmetic operators.
+
 import java.util.Scanner;
 
 public class arithmetic_operations {
