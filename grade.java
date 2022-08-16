@@ -1,4 +1,13 @@
-package Program5;
+// Write a program to input a student's name, roll 
+// number and marks. Compute and print the grades
+// as follows: 
+
+// Marks      | Grade
+// 90+        | A
+// 70-89      | B
+// 50-69      | C
+// <50        | D
+
 import java.util.Scanner;
 
 public class grade {
