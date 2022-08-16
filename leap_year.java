@@ -1,4 +1,6 @@
-package Program7;
+// Write a program to accept a year
+// and check if it a leap year.
+
 import java.util.Scanner;
 
 public class leap_year {
