@@ -1,3 +1,6 @@
+// Write a program to accept a month
+// and print the number of days
+
 import java.util.Scanner;
 
 public class number_of_days {
