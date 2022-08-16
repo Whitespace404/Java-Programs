@@ -1,4 +1,6 @@
-package Program3;
+// Write a Java program to accept three numbers and
+// find the largest among them using an if statement.
+
 import java.util.Scanner;
 
 public class even_or_odd {
