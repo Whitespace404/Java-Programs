@@ -1,7 +1,7 @@
 // Write a program to accept two numbers and demonstrate the use 
 // of all the arithmetic operators.
 
-import java.util.Scanner;
+import java.util.Scanner; // Interchangeable with java.util.*, holds true for all programs, just fyi
 
 public class arithmetic_operations {
     public static void main(String[] args) {
