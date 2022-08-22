@@ -1,3 +1,12 @@
+/*
+Write a program that picks a random two digit number and 
+asks the user to guess it. It should give a clue about 
+whether the number guessed is greater or lesser than the 
+answer after every guess. The program should count
+the number of guesses and print it after the user guesses 
+it.
+*/
+
 import java.util.Scanner;
 
 public class guessing_game {
