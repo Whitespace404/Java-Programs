@@ -1,7 +1,7 @@
 // Write a program to print the first 10 numbers
 // of the Fibbonaci series using a for loop
 
-public class fib {
+public class fibbonacci {
     public static void main(String args[]) {
 	int n1 = 0;
 	int n2 = 1;
