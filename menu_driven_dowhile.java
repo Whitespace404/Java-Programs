@@ -1,6 +1,11 @@
+/* Write a menu driven program that accepts
+two numbers and performs the four arithmetic
+operators on them based on the choice.
+*/
+
 import java.util.*;
 
-public class while_loop_arithmetic {
+public class menu_driven_dowhile {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter two numbers");
