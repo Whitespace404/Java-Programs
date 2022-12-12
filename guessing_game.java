@@ -1,4 +1,8 @@
 /*
+[Probably not in portions, but its doable with what we've learnt in 
+the last two years I've annotated the code with comments for easier
+understanding just in case you're wondering how it works]
+
 Write a program that picks a random two digit number and 
 asks the user to guess it. It should give a clue about 
 whether the number guessed is greater or lesser than the 
