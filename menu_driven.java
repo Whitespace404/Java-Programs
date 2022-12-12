@@ -9,7 +9,7 @@ public class menu_driven {
         System.out.println("Would you like to calculate the area (1) or the circumference (2)? ");
 
         int choice = input.nextInt();
-        double pi = 3.1415926535897;
+        double pi = 3.141;
 
         switch (choice) {
             case 1:
