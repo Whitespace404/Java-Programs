@@ -1,5 +1,6 @@
 /* Write a Java program to accept a number and print
-that many numbers of the Fibonacci series */
+that many numbers of the Fibonacci series using a 
+while loop*/
 
 import java.util.*;
 
